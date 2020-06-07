@@ -36,3 +36,5 @@ format.
 Because this dataset is huge relatively to the number of images in class of the
 CIFAR dataset, only 10-14 images of each class of the GTSRB were taken as
 training data and also 100 random images were taken as validation data
+
+All the informatiom about the training process, experiments and results apears in the report.pdf file.
